@@ -42,9 +42,5 @@ Installing this app is very simple:
 <img src="ss/virya (6).png" width="400">
 
 
-## Demo Video
-
-https://user-images.githubusercontent.com/38736403/225840807-7cafd9b5-11a6-4902-a4af-a217affec978.mp4
-
 
 
